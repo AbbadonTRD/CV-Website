@@ -190,8 +190,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "LT MEDIA",
-    description: "Website for LT Media which is currently getting reworked on.",
+    name: "Tiago  Portfolio",
+    description:
+      "My personal portfolio showcasing my work and projects, built with React and Tailwind CSS.",
     tags: [
       {
         name: "react",
@@ -207,50 +208,118 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://lt-media.ch/",
+    source_code_link: "https://tiago-cevallos.de/",
   },
   {
-    name: "SEO",
-    description: "Currently helping with SEO for Dermakos.",
+    name: "Hackathon for Students",
+    description:
+      "Organized a three-day long Pilot Project hackathon for students, fostering creativity and collaboration.",
     tags: [
       {
-        name: "react",
+        name: "hackathon",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "event",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "teamwork",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://dermakos.ch/",
+    source_code_link: "https://www.linkedin.com/feed/update/urn:li:activity:7237071589920419840/",
   },
   {
-    name: "Fimga Apple Website UI/UX",
+    name: "Splunk Reporting Script", 
     description:
-      "Using Figma to create a UI/UX similiar to the apple website for fun",
+      "Created a Splunk reporting tool for the Swisscom team, enhancing data analysis and reporting capabilities.",
     tags: [
       {
-        name: "nextjs",
+        name: "splunk",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "reporting",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "python",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
     source_code_link:
-      "https://www.figma.com/community/file/1227655988294353116",
+      "https://www.splunk.com/",
+  },
+  {
+    name: "Unity Game Coding Workshop",
+    description:
+      "Conducted a workshop on \"Game Coding with Unity,\" sharing knowledge and skills with participants.",
+    tags: [
+      {
+        name: "Unity",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Games",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Fun ",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link:
+      "https://unity.com/de/developer-tools",
+  },
+  {
+    name: "Swisscom Timeline",
+    description:
+      "Created a timeline for Swisscom, showcasing the company's history and milestones.",
+    tags: [
+      {
+        name: "Swisscom",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Timeline",
+        color: "green-text-gradient",
+      },
+      {
+        name: "React",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link:
+      "https://relaxed-zabaione-5aeb99.netlify.app/",
+  },
+  {
+    name: "NEX DAY EVENT",
+    description:
+      "Organizing a EDB Specific Exercise for the next Swisscom NEXDAY event, bringing together teams and fostering collaboration.", 
+    tags: [
+      {
+        name: "splunk",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "reporting",
+        color: "green-text-gradient",
+      },
+      {
+        name: "python",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link:
+      "https://www.swisscom.ch/de/about/karriere/getit/berufslehre-bei-swisscom/swisscom-nex-days.html",
   },
 ];
+
 
 export { services, technologies, experiences, testimonials, projects };
