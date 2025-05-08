@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Hi there! I'm a 17-year-old tech enthusiast, excited to secure your Project. I'm passionate about marketing, Ai, Project Management-related tasks and currently learning to expand my skills in this area. I enjoy creating engaging Content and Projects in various fields such as VS Code or Management. While I'm still learning and not an expert yet, I'm continuously exploring new skills to improve. If you're curious, you can check out some of my personal work on lt-media.ch. I'm thrilled to bring my creativity and enthusiasm for learning to your team and collaborate on bringing ideas to life!
+        Hi there! I'm a 18-year-old tech enthusiast, excited to secure your Project. I'm passionate about marketing, Ai, Project Management-related tasks and currently learning to expand my skills in this area. I enjoy creating engaging Content and Projects in various fields such as VS Code or Management. While I'm still learning and not an expert yet, I'm continuously exploring new skills to improve. If you're curious, you can check out some of my personal work on lt-media.ch. I'm thrilled to bring my creativity and enthusiasm for learning to your team and collaborate on bringing ideas to life!
 
 
       </motion.p>

@@ -99,29 +99,40 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Sek E / A Graduation",
-    company_name: "SA Auen",
-    icon: starbucks,
-    iconBg: "#383E56",
-    date: "August 2019 - July 2022",
+    title: "Open For Collaboration",
+    company_name: "Swsisscom",
+    icon: meta,
+    iconBg: "#E6DEDD",
+    date: "July 2025 - February 2026",
     points: [
-      "While my professional work experience may be limited, I am proud of my academic accomplishments. 2022, I graduated in the highest possible class (Sek E/A) in SA Auen Frauenfeld.",
-      "Throughout my academic journey, I consistently maintained commendable grades and demonstrated a strong commitment to perfection.",
-      "I also earned a first English diploma, which reflects my proficiency in the language.",
-      "Though my work experience is just beginning, my dedication to academic excellence and language proficiency forms a solid foundation for my professional journey.",
+      "I’m actively searching for my next project—this is your chance to collaborate with me on AI, website development, or marketing initiatives.",
+      "Whether you need expertise in AI solutions, full-stack web development, or digital marketing strategies, I’m ready to bring my skills to your team and drive results.",
+      "Let’s connect and explore how we can achieve outstanding outcomes together.",
     ],
   },
   {
-    title: "Apprenticeship as Zeichner Ingenieurbau efz",
-    company_name: "NRPAG",
-    icon: tesla,
+    title: "Offline Agent Deep Security",
+    company_name: "Swisscom",
+    icon: meta,
     iconBg: "#E6DEDD",
-    date: "August 2022 - March 2023",
+    date: "February 2025 - July 2025",
     points: [
-      "In August 2023, I started with my first apprenticeship as a Zeichner EFZ Fachrichtung Ingenieurbau.",
-      "I gained valuable experience working with programs like AUTOCAD, CIVIL, and other 3D CAD software.",
-      "While the experience was enriching, I realized that this career path wasn't the perfect fit for me.",
-      "After approximately 8-9 months of working in the NRPAG I made the decision to explore other opportunities that align more closely with my interests and passions.",
+      "Currently performing antivirus agent management in Deep Security solutions within the Midrange Protection Team (MRP).",
+      "Working with security platforms and tools including Trellix, Trend Micro, Microsoft Defender for Endpoint, BigFix (backend & agents), and XM Cyber.",
+      "Managing Trend Micro Deep Security components: Deep Security Agent (DSA), Deep Security Relay (DSR), and Deep Security Manager (DSM).",
+    ],
+  },
+  {
+    title: "Shadowing a Scrum Master",
+    company_name: "swisscom",
+    icon: meta,
+    iconBg: "#E6DEDD",
+    date: "August 2024 - February 2025",
+    points: [
+      "I started in August with my Apprenticeship as «Digital Business Developer» in Swisscom, igniting my passion for the field.",
+      "In addition to web development, I discovered an interest in analysis and project management as a Scrum Master, which drove me to enhance my skills in this creative domain.",
+      "As part of my apprenticeship, I took the initiative to code and design this website, showcasing my proficiency in web development, media, marketing, and data analysis with responsive design and cross-browser compatibility.",
+      "I worked as a Shadow Scrum Master with two laboratory teams (IPB & BBLAB) responsible for the Swiss Network Infrastructure. My responsibilities included managing blackholing operations, organizing team events, and addressing lab members' needs through IT automation and other solutions. Additionally, I undertook various side projects, such as coordinating a three-day long Pilot Project hackathon for students and conducting a workshop on \"Game Coding with Unity.\"",
     ],
   },
   {
@@ -138,43 +149,42 @@ const experiences = [
     ],
   },
   {
-    title: "Start in Swisscom",
-    company_name: "Building more Skills",
-    icon: meta,
+    title: "Apprenticeship as Zeichner Ingenieurbau efz",
+    company_name: "NRPAG",
+    icon: tesla,
     iconBg: "#E6DEDD",
-    date: "August 2024 - Present",
+    date: "August 2022 - March 2023",
     points: [
-      "I started in August with my Apprenticeship as «Digital Business Developer» in Swisscom, thats when the enlightened flame became a burning Blaze.",
-      "In addition to web development, I discovered an interest in Analysis and Project management in my first Project as Scrum Master. This new found section has driven me to explore and enhance my skills in this creative field.",
-      "As part of my pursuit of the «Digital Business Developer» apprenticeship, I took the initiative to code and design this website. It stands as a compelling representation of my proficiency in web development and passion. This portfolio serves as a testament to my dedication and commitment to building a career in media, marketing and Data Analysis. Implementing responsive design and ensuring cross-browser compatibility.",
+      "In August 2022, I started my first apprenticeship as a Zeichner EFZ Fachrichtung Ingenieurbau.",
+      "I gained valuable experience working with programs like AutoCAD, Civil, and other 3D CAD software.",
+      "While the experience was enriching, I realized that this career path wasn't the perfect fit for me.",
+      "After approximately 8-9 months, I decided to explore other opportunities that align more closely with my interests and passions.",
       "With this portfolio in hand, I am currently on the lookout for the perfect Swisscom Project opportunity for the february 2025. I am excited to bring my versatile skill set and passion for web, Ai development and more to a dynamic team and contribute meaningfully to the ever-evolving world of media.",
     ],
   },
 ];
 
+
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as this one, but Tiago proved me wrong.",
-    name: "Joyce Carvalho",
-    designation: "",
-    company: "My Sister",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Among Swisscom apprentices, Tiago stands out for his exceptional work quality and impressive self-reliance, consistently delivering top-notch results and demonstrating a remarkable ability to work independently on complex tasks, setting him apart from his peers.",
+    name: "Jaime Oberle",
+    designation: "Nationally responsible for Digital Business Developer's of Switzerland",
+    company: "BBW",
   },
   {
     testimonial:
-      "He is really hard working, that i can confirm. He helped me out bunch of times when i had Problems with my Company.",
-    name: "Tanja Pichler",
-    designation: "CMO and Mother of a Friend",
-    company: "Dermakos",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "Tiago is a highly productive, fast-learning professional who quickly adapts to new tasks and brings substantial value to any project.",    
+    name: "Julia Kung",
+    designation: "Scrum Master at Swisscom",
+    company: "Swisscom",
   },
   {
-    testimonial: "It's my Work and I love it!",
-    name: "Tiago Carvalho de Cevallos",
-    designation: "Digital Business Developer",
+    testimonial: "Tiago excels with his exceptional commitment, innovative thinking, and professional demeanor, consistently delivering high-quality work while embracing new challenges and fostering a positive team environment.",
+    name: "Ralph Trachlser",
+    designation: "DevOps Engineer at MRP",
     company: "Swisscom",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
 
