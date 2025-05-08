@@ -139,7 +139,7 @@ const experiences = [
     title: "Web Development",
     company_name: "LT Media",
     icon: shopify,
-    iconBg: "#383E56",
+    iconBg: "#E6DEDD",
     date: "Jan 2022 - Jan 2023",
     points: [
       "After departing from NRPAG, I made the decision to return to school and enrolled in the 10th year of education.",
@@ -249,7 +249,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: jobit,
     source_code_link:
       "https://www.splunk.com/",
   },
@@ -271,7 +271,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: jobit,
     source_code_link:
       "https://unity.com/de/developer-tools",
   },
@@ -293,7 +293,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: jobit,
     source_code_link:
       "https://relaxed-zabaione-5aeb99.netlify.app/",
   },
@@ -315,7 +315,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: jobit,
     source_code_link:
       "https://www.swisscom.ch/de/about/karriere/getit/berufslehre-bei-swisscom/swisscom-nex-days.html",
   },
