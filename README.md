@@ -27,7 +27,8 @@
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 📸 Screenshots
-![image](https://github.com/user-attachments/assets/4fc5737e-92fd-4d7a-86b2-3d5727d407aa)
+![image](<img width="1711" height="1225" alt="image" src="https://github.com/user-attachments/assets/e1fa5cc8-d5a5-4c32-bc32-c0bb8ef721bb" />
+)
 
 
 ## 🤝 Contributing
