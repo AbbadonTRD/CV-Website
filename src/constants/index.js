@@ -98,35 +98,49 @@ const technologies = [
 ];
 
 const experiences = [
-  {
+   {
     title: "Open For Collaboration",
-    company_name: "Swsisscom",
+    company_name: "Swisscom",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "July 2025 - February 2026",
+    date: "February 2026 - August 2025",
     points: [
-      "I’m actively searching for my next project—this is your chance to collaborate with me on AI, website development, or marketing initiatives.",
-      "Whether you need expertise in AI solutions, full-stack web development, or digital marketing strategies, I’m ready to bring my skills to your team and drive results.",
-      "Let’s connect and explore how we can achieve outstanding outcomes together.",
+      "I'm actively searching for my next project—this is your chance to collaborate with me on AI, website development, or marketing initiatives.",
+      "Whether you need expertise in AI solutions, full-stack web development, or digital marketing strategies, I'm ready to bring my skills to your team and drive results.",
+      "Let's connect and explore how we can achieve outstanding outcomes together.",
     ],
   },
+  {
+    title: "Apprentice Junior Release Train Engineer (RTE)",
+    company_name: "Swisscom",
+    icon: meta,
+    iconBg: "#E6DEDD",
+    date: "Aug 2025 - February 2026",
+    points: [
+      "Gaining deep insights into agile working methods within the Swisscom ART Mobile Offering & Experience.",
+      "Analyzing current processes, challenging existing workflows, and developing concrete improvement proposals.",
+      "Working closely with product managers and product owners to define target states and implement actionable measures.",
+      "Documenting processes and contributing to the optimization of agile workflows.",
+    ],
+  },
+ 
   {
     title: "Offline Agent Deep Security",
     company_name: "Swisscom",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "February 2025 - July 2025",
+    date: "February 2025 - August 2025",
     points: [
-      "Currently performing antivirus agent management in Deep Security solutions within the Midrange Protection Team (MRP).",
-      "Working with security platforms and tools including Trellix, Trend Micro, Microsoft Defender for Endpoint, BigFix (backend & agents), and XM Cyber.",
-      "Managing Trend Micro Deep Security components: Deep Security Agent (DSA), Deep Security Relay (DSR), and Deep Security Manager (DSM).",
+      "As part of Apprenticeship i performed as a Antivirus Agent Management in Deep Security antivirus solutions with the Midrange Protection Team (MRP)",
+      "My responsibilities encompassed working with various security platforms and tools, including Trellix, Trend Micro, Microsoft Defender for Endpoint and Splunk which i also created scripts for.",
+      "I also handled components of Trend Micro's Deep Security platform, specifically the offline Agents, ensuring their optimal performance and security.",
     ],
   },
   {
     title: "Shadowing a Scrum Master",
-    company_name: "swisscom",
+    company_name: "Swisscom",
     icon: meta,
-    iconBg: "#E6DEDD",
+    iconBg: "#E6DEDD", 
     date: "August 2024 - February 2025",
     points: [
       "I started in August with my Apprenticeship as «Digital Business Developer» in Swisscom, igniting my passion for the field.",
