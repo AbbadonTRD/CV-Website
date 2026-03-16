@@ -23,6 +23,7 @@ import {
   jobit,
   tripguide,
   threejs,
+  ltm,
 } from "../assets";
 
 export const navLinks = [
@@ -98,83 +99,79 @@ const technologies = [
 ];
 
 const experiences = [
-   {
-    title: "Open For Collaboration",
-    company_name: "Swisscom",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "February 2026 - August 2025",
-    points: [
-      "I'm actively searching for my next project—this is your chance to collaborate with me on AI, website development, or marketing initiatives.",
-      "Whether you need expertise in AI solutions, full-stack web development, or digital marketing strategies, I'm ready to bring my skills to your team and drive results.",
-      "Let's connect and explore how we can achieve outstanding outcomes together.",
-    ],
+  {
+   title: "Open For Collaboration",
+   company_name: "Swisscom",
+   icon: meta,
+   iconBg: "#E6DEDD",
+   date: "August 2026 - February 2026",
+   points: [
+    "I'm actively searching for my next project—this is your chance to collaborate with me on AI, website development, or marketing initiatives.",
+    "Whether you need expertise in AI solutions, full-stack web development, or digital marketing strategies, I'm ready to bring my skills to your team and drive results.",
+    "Let's connect and explore how we can achieve outstanding outcomes together.",
+   ],
   },
   {
-    title: "Apprentice Junior Release Train Engineer (RTE)",
-    company_name: "Swisscom",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Aug 2025 - February 2026",
-    points: [
-      "Gaining deep insights into agile working methods within the Swisscom ART Mobile Offering & Experience.",
-      "Analyzing current processes, challenging existing workflows, and developing concrete improvement proposals.",
-      "Working closely with product managers and product owners to define target states and implement actionable measures.",
-      "Documenting processes and contributing to the optimization of agile workflows.",
-    ],
+   title: "Project Team: Redefine Work @ Swisscom",
+   company_name: "Swisscom",
+   icon: meta,
+   iconBg: "#E6DEDD",
+   date: "February 2026 - August 2026",
+   points: [
+    "We are on a mission to rethink how work happens inside a large company, I contribute in turning ideas into real improvements and figuring out better ways for teams to work together.",
+    "So basically making big corp stuff feel a little less big company. Ergo helping Swisscom shape smarter, simpler digital ways to get things done.",
+   ],
+  },
+  {
+   title: "Apprentice Junior Release Train Engineer (RTE)",
+   company_name: "Swisscom",
+   icon: meta,
+   iconBg: "#E6DEDD",
+   date: "Aug 2025 - February 2026",
+   points: [
+    "Gaining deep insights into agile working methods within the Swisscom ART Mobile Offering & Experience taught me how much clarity, ownership, and communication matter in complex environments.",
+    "Analyzing current processes and challenging existing workflows helped me build a more critical eye for improvement and a stronger instinct for turning observations into concrete proposals.",
+    "Working closely with product managers and product owners showed me how to translate broad goals into realistic target states, practical next steps, and measurable action, while also giving me a clearer understanding of how Capex and Opex influence planning and decision-making.",
+    "Documenting processes and contributing to the optimization of agile workflows strengthened my ability to bring structure to ambiguity, think more systemically, and contribute with both detail and perspective.",
+   ],
   },
  
   {
-    title: "Offline Agent Deep Security",
-    company_name: "Swisscom",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "February 2025 - August 2025",
-    points: [
-      "As part of Apprenticeship i performed as a Antivirus Agent Management in Deep Security antivirus solutions with the Midrange Protection Team (MRP)",
-      "My responsibilities encompassed working with various security platforms and tools, including Trellix, Trend Micro, Microsoft Defender for Endpoint and Splunk which i also created scripts for.",
-      "I also handled components of Trend Micro's Deep Security platform, specifically the offline Agents, ensuring their optimal performance and security.",
-    ],
+   title: "Offline Agent Deep Security",
+   company_name: "Swisscom",
+   icon: meta,
+   iconBg: "#E6DEDD",
+   date: "February 2025 - August 2025",
+   points: [
+    "As part of Apprenticeship i performed as a Antivirus Agent Management in Deep Security antivirus solutions with the Midrange Protection Team (MRP)",
+    "My responsibilities encompassed working with various security platforms and tools, including Trellix, Trend Micro, Microsoft Defender for Endpoint and Splunk which i also created scripts for.",
+    "I also handled components of Trend Micro's Deep Security platform, specifically the offline Agents, ensuring their optimal performance and security.",
+   ],
   },
   {
-    title: "Shadowing a Scrum Master",
-    company_name: "Swisscom",
-    icon: meta,
-    iconBg: "#E6DEDD", 
-    date: "August 2024 - February 2025",
-    points: [
-      "I started in August with my Apprenticeship as «Digital Business Developer» in Swisscom, igniting my passion for the field.",
-      "In addition to web development, I discovered an interest in analysis and project management as a Scrum Master, which drove me to enhance my skills in this creative domain.",
-      "As part of my apprenticeship, I took the initiative to code and design this website, showcasing my proficiency in web development, media, marketing, and data analysis with responsive design and cross-browser compatibility.",
-      "I worked as a Shadow Scrum Master with two laboratory teams (IPB & BBLAB) responsible for the Swiss Network Infrastructure. My responsibilities included managing blackholing operations, organizing team events, and addressing lab members' needs through IT automation and other solutions. Additionally, I undertook various side projects, such as coordinating a three-day long Pilot Project hackathon for students and conducting a workshop on \"Game Coding with Unity.\"",
-    ],
+   title: "Shadowing a Scrum Master",
+   company_name: "Swisscom",
+   icon: meta,
+   iconBg: "#E6DEDD", 
+   date: "August 2024 - February 2025",
+   points: [
+    "I started in August with my Apprenticeship as «Digital Business Developer» in Swisscom, igniting my passion for the field.",
+    "In addition to web development, I discovered an interest in analysis and project management as a Scrum Master, which drove me to enhance my skills in this creative domain.",
+    "As part of my apprenticeship, I took the initiative to code and design this website, showcasing my proficiency in web development, media, marketing, and data analysis with responsive design and cross-browser compatibility.",
+    "I worked as a Shadow Scrum Master with two laboratory teams (IPB & BBLAB) responsible for the Swiss Network Infrastructure. My responsibilities included managing blackholing operations, organizing team events, and addressing lab members' needs through IT automation and other solutions. Additionally, I undertook various side projects, such as coordinating a three-day long Pilot Project hackathon for students and conducting a workshop on \"Game Coding with Unity.\"",
+   ],
   },
   {
-    title: "Web Development",
-    company_name: "LT Media",
-    icon: shopify,
-    iconBg: "#E6DEDD",
-    date: "Jan 2022 - Jan 2023",
-    points: [
-      "After departing from NRPAG, I made the decision to return to school and enrolled in the 10th year of education.",
-      "In my journey of exploration, I also ventured into the realm of e-commerce. While engaging with Shopify, I discovered an irresistible fascination with website building and Data Analysis.",
-      "During this time, I began freelancing and utilizing my skills to create websites for various companies responsive design and Search engine optimization.",
-      "The prospect of becoming an «EDB» became a driving force behind my pursuits, and I became dedicated to developing my expertise in this area.",
-    ],
-  },
-  {
-    title: "Apprenticeship as Zeichner Ingenieurbau efz",
-    company_name: "NRPAG",
-    icon: tesla,
-    iconBg: "#E6DEDD",
-    date: "August 2022 - March 2023",
-    points: [
-      "In August 2022, I started my first apprenticeship as a Zeichner EFZ Fachrichtung Ingenieurbau.",
-      "I gained valuable experience working with programs like AutoCAD, Civil, and other 3D CAD software.",
-      "While the experience was enriching, I realized that this career path wasn't the perfect fit for me.",
-      "After approximately 8-9 months, I decided to explore other opportunities that align more closely with my interests and passions.",
-      "With this portfolio in hand, I am currently on the lookout for the perfect Swisscom Project opportunity for the february 2025. I am excited to bring my versatile skill set and passion for web, Ai development and more to a dynamic team and contribute meaningfully to the ever-evolving world of media.",
-    ],
+   title: "Web Development",
+   company_name: "lt&m",
+   icon: ltm,
+   iconBg: "linear-gradient(to right, rgb(0, 0, 0), rgb(18, 18, 68))",
+   date: "Jan 2022 - Jan 2023",
+   points: [
+    "In my journey of exploration, I also ventured into the realm of e-commerce. While engaging with Shopify, I discovered an irresistible fascination with website building and Data Analysis.",
+    "During this time, I began freelancing and utilizing my skills to create websites for various companies responsive design and Search engine optimization.",
+    "The prospect of becoming a «TRUE EDB» became a driving force behind my pursuits, and I became dedicated to developing my expertise in this area.",
+   ],
   },
 ];
 

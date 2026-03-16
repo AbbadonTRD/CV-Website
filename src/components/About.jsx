@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Hi there! I'm a 18-year-old tech enthusiast, excited to secure your Project. I'm passionate about marketing, Ai, agile, website and management-related enjoy creating engaging Content and Projects in various fields such as Websites with VsCode. While I'm still learning and not an expert yet, I'm continuously exploring new skills to improve. If you're curious, you can check out some of my personal work on <a href="https://tiago-cevallos.de" target="_blank" rel="noopener noreferrer" className="text-[#915EFF]">tiago-cevallos.de</a> I'm thrilled to bring my creativity and enthusiasm for learning to your team and collaborate on bringing ideas to life!
+        Hi there! I'm a 19-year-old tech enthusiast, excited to secure your Project. I'm all about web3, creative problem solving, and thinking outside the box to find solutions you didn't know you needed. Learning is basically my hobby at this point, whether it's diving into new frameworks, exploring blockchain concepts, or just figuring out how stuff works. I genuinely believe in constantly leveling up my skills and picking up knowledge in anything tech-related. When I'm building projects, I aim to make them clean, functional, and actually fun to use. Check out what I've been working on at <a href="https://tiago-cevallos.de" target="_blank" rel="noopener noreferrer" className="text-[#915EFF]">tiago-cevallos.de</a> to see my style. I'm pumped to collaborate with you and bring some fresh energy to your next project!
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
