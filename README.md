@@ -1,4 +1,4 @@
-# Linkedin Website - Three.js Project 
+# Linkedin Website Three.js Project 
 
 A modern, responsive website for Linkedin built with Three.js.
 
