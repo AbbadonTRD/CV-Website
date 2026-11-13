@@ -27,7 +27,8 @@ A modern, responsive website for Linkedin built with Three.js.
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 📸 Screenshots
-<img width="2524" height="1354" alt="grafik" src="https://github.com/user-attachments/assets/8123a216-d77d-4d69-9575-ae887140b2b9" />
+
+<img width="2504" height="1344" alt="grafik" src="https://github.com/user-attachments/assets/19a9fb95-4a81-4bf9-af9e-86d7dd163007" />
 
 
 
